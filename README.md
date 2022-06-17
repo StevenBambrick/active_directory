@@ -24,3 +24,4 @@ Configuring git
 First commit to the git repo
     `git add .`
     `git commit`
+    `git push`
