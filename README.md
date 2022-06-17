@@ -3,7 +3,7 @@
 This repository tree covers the steps used when following John Hammond's Active Directory setup playlist on his YouTube channel.
 
 
-Miscellaneous Notes:
+# Miscellaneous Notes:
     - Chocolatey (https://chocolately.org/install)
         - Follow the "Install Chocolately for Individual Use" instructions i.e., copy and run the PS command
         - Close & reopen the terminal
@@ -17,11 +17,11 @@ Miscellaneous Notes:
     - VSCode
         - `choco install vscode`
 
-Configuring git
+# Configuring git
     `git config --global user.email "you@gmail.com"`
     `git config --global user.name "Your Name"`
 
-First commit to the git repo
+# First commit to the git repo
     `git add .`
     `git commit`
     `git push`
